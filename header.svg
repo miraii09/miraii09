@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" shape-rendering="crispEdges">
+<title>Almia Nour — pink pixel-art animated GitHub header</title>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#35122f"/><stop offset=".55" stop-color="#8e356f"/><stop offset="1" stop-color="#ed8fc2"/></linearGradient>
+ <linearGradient id="name" x2="1"><stop stop-color="#fff3fa"/><stop offset=".5" stop-color="#ffb8dc"/><stop offset="1" stop-color="#fff3fa"/></linearGradient>
+ <pattern id="stars" width="96" height="72" patternUnits="userSpaceOnUse">
+  <rect x="12" y="12" width="4" height="4" fill="#ffe5f4"/>
+  <rect x="65" y="39" width="3" height="3" fill="#ffd0e9"/>
+  <rect x="40" y="60" width="2" height="2" fill="#fff"/>
+ </pattern>
+ <path id="orbit" d="M170 180 C185 65 405 38 600 38 C820 38 1035 65 1030 180 C1035 285 820 320 600 320 C380 320 165 285 170 180Z"/>
+ <g id="pixelStar" fill="#fff0f8"><rect x="-3" y="-12" width="6" height="24"/><rect x="-12" y="-3" width="24" height="6"/><rect x="-6" y="-6" width="12" height="12"/></g>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#sky)"/>
+<rect width="1200" height="360" rx="18" fill="url(#stars)" opacity=".8"/>
+<!-- pixel moon -->
+<g transform="translate(1030 75)">
+ <rect x="-40" y="-40" width="80" height="80" fill="#ffd7ed"/>
+ <rect x="-32" y="-48" width="64" height="8" fill="#ffd7ed"/><rect x="-32" y="40" width="64" height="8" fill="#ffd7ed"/>
+ <rect x="-48" y="-32" width="8" height="64" fill="#ffd7ed"/><rect x="40" y="-32" width="8" height="64" fill="#ffd7ed"/>
+ <rect x="-16" y="-16" width="8" height="8" fill="#f39ac9"/><rect x="16" y="16" width="8" height="8" fill="#f39ac9"/>
+</g>
+<!-- distant pixel hills -->
+<path d="M0 250H80V230H160V246H250V220H330V238H420V255H520V238H610V220H700V245H800V228H900V248H1000V220H1100V242H1200V360H0Z" fill="#54234f"/>
+<path d="M0 285H140V268H260V285H380V260H500V282H640V267H760V288H900V265H1040V284H1200V360H0Z" fill="#32172f" opacity=".8"/>
+<g fill="#ffd4eb" opacity=".9">
+ <use xlink:href="#pixelStar" x="120" y="95"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></use>
+ <use xlink:href="#pixelStar" x="880" y="135"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></use>
+ <use xlink:href="#pixelStar" x="300" y="275"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></use>
+</g>
+<!-- tiny pixel hearts -->
+<g fill="#ffcae5">
+ <path d="M250 170h8v-8h8v8h8v8h-8v8h-8v-8h-8z"><animateTransform attributeName="transform" type="translate" values="0 5;0 -5;0 5" dur="3s" repeatCount="indefinite"/></path>
+ <path d="M920 220h8v-8h8v8h8v8h-8v8h-8v-8h-8z"><animateTransform attributeName="transform" type="translate" values="0 -5;0 5;0 -5" dur="3.6s" repeatCount="indefinite"/></path>
+</g>
+<!-- name plaque -->
+<rect x="280" y="105" width="640" height="155" fill="#3b1738" opacity=".42"/>
+<rect x="288" y="113" width="624" height="139" fill="none" stroke="#ffc5e3" stroke-width="4" stroke-dasharray="8 8"/>
+<g text-anchor="middle" font-family="monospace">
+ <text x="600" y="153" font-size="17" letter-spacing="5" fill="#ffe6f4">HELLO, WORLD! I'M</text>
+ <text x="600" y="211" font-size="57" font-weight="bold" fill="url(#name)">ALMIA NOUR</text>
+ <text x="600" y="239" font-size="14" letter-spacing="2" fill="#ffe6f4">BUSINESS COMPUTING · SOFTWARE · AI</text>
+</g>
+<use xlink:href="#orbit" fill="none" stroke="#ffd8ee" stroke-opacity=".25" stroke-width="2" stroke-dasharray="6 12"/>
+<!-- walking pixel cat: 8-bit silhouette with alternating leg frames -->
+<g>
+ <animateMotion dur="18s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#orbit"/></animateMotion>
+ <g>
+  <!-- tail -->
+  <rect x="-44" y="-10" width="8" height="8" fill="#26172a"/>
+  <rect x="-52" y="-18" width="8" height="8" fill="#26172a"/>
+  <rect x="-52" y="-26" width="8" height="8" fill="#26172a"/>
+  <!-- body -->
+  <rect x="-36" y="-10" width="48" height="24" fill="#26172a"/>
+  <rect x="-28" y="-18" width="32" height="8" fill="#26172a"/>
+  <rect x="-20" y="-2" width="24" height="8" fill="#f5c6df"/>
+  <!-- head, ears -->
+  <rect x="8" y="-30" width="32" height="30" fill="#26172a"/>
+  <rect x="8" y="-42" width="8" height="16" fill="#26172a"/>
+  <rect x="32" y="-42" width="8" height="16" fill="#26172a"/>
+  <rect x="12" y="-34" width="4" height="8" fill="#f2a1cc"/>
+  <rect x="32" y="-34" width="4" height="8" fill="#f2a1cc"/>
+  <rect x="16" y="-22" width="4" height="4" fill="#fff0f8"/>
+  <rect x="32" y="-22" width="4" height="4" fill="#fff0f8"/>
+  <rect x="24" y="-14" width="8" height="4" fill="#f2a1cc"/>
+  <!-- legs: alternating pixel steps -->
+  <g fill="#26172a">
+   <g><rect x="-28" y="14" width="8" height="16"><animate attributeName="y" values="14;18;14" dur=".5s" repeatCount="indefinite"/><animate attributeName="height" values="16;12;16" dur=".5s" repeatCount="indefinite"/></rect></g>
+   <g><rect x="-4" y="14" width="8" height="16"><animate attributeName="y" values="18;14;18" dur=".5s" repeatCount="indefinite"/><animate attributeName="height" values="12;16;12" dur=".5s" repeatCount="indefinite"/></rect></g>
+   <rect x="20" y="0" width="8" height="4"/>
+  </g>
+ </g>
+</g>
+<text x="600" y="344" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3" fill="#ffe8f5">✦ CURIOUS MIND · CREATIVE BUILDER · LIFELONG LEARNER ✦</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" shape-rendering="crispEdges">
+<title>About Almia — pink pixel style</title>
+<rect x="2" y="2" width="1196" height="286" rx="12" fill="#ffe8f4" stroke="#d85a9e" stroke-width="5"/>
+<rect x="18" y="18" width="1164" height="254" fill="none" stroke="#f1a5cd" stroke-width="3" stroke-dasharray="8 8"/>
+<text x="55" y="62" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="4" fill="#a23d78">01 / ABOUT ME</text>
+<rect x="55" y="82" width="104" height="8" fill="#d84f9b"/>
+<text x="55" y="137" font-family="monospace" font-size="29" font-weight="bold" fill="#49233f">A LITTLE ABOUT MY WORLD</text>
+<text x="55" y="181" font-family="monospace" font-size="17" fill="#59344f">I'm a final-year Business Computing student at ISG Tunis,</text>
+<text x="55" y="211" font-family="monospace" font-size="17" fill="#59344f">specializing in Business Information Systems.</text>
+<text x="55" y="250" font-family="monospace" font-size="14" fill="#754765">I connect technology, data, and business ideas to build useful solutions. ♥</text>
+<!-- pixel cat portrait -->
+<g transform="translate(1000 145)">
+ <rect x="-64" y="-56" width="128" height="112" fill="#f4b4d5"/>
+ <rect x="-48" y="-40" width="96" height="80" fill="#704066"/>
+ <rect x="-40" y="-56" width="16" height="24" fill="#704066"/><rect x="24" y="-56" width="16" height="24" fill="#704066"/>
+ <rect x="-32" y="-48" width="8" height="8" fill="#f3a5cd"/><rect x="24" y="-48" width="8" height="8" fill="#f3a5cd"/>
+ <rect x="-28" y="-16" width="8" height="12" fill="#fff1f8"/><rect x="20" y="-16" width="8" height="12" fill="#fff1f8"/>
+ <rect x="-4" y="4" width="12" height="8" fill="#f3a5cd"/>
+ <rect x="-20" y="24" width="40" height="8" fill="#f3a5cd"/>
+ <rect x="-76" y="-8" width="12" height="8" fill="#704066"/><rect x="64" y="-8" width="12" height="8" fill="#704066"/>
+</g>
+</svg>
