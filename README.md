@@ -1,147 +1,110 @@
-<!-- OM.DEV | FIELD NOTES — Warm Paper / Cobalt Edition -->
+# 👩‍💻 Hi, I'm Almia Nour!
 
+<!-- Animated typing introduction -->
 <p align="center">
-  <!---->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Business+Computing+Student;Aspiring+Software+Developer;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
-<h1 align="center">OM ARUN JOSHI</h1>
-
 <p align="center">
-  <strong><em>✏️ A sentence about you and what you do.</em></strong><br />
-  <em><em>✏️ A sentence about you and what you do.</em></em>
-</p>
-
----
-
-## 01 — PROFILE
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<p align="center">
-  <!---->
+  <img src="https://img.shields.io/badge/Business_Computing-Student-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software_Development-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Artificial_Intelligence-10B981?style=for-the-badge" />
 </p>
 
 ---
 
-## 02 — TOOLKIT
+## 🌱 About Me
 
-**Languages**
+I'm a final-year **Business Computing student**, specializing in Business Information Systems at the Higher Institute of Management of Tunis (ISG Tunis).
 
+I'm interested in building practical digital solutions that combine technology, business processes, and innovation.
+
+- 🎓 Currently completing my Bachelor's degree in Business Computing.
+- 💻 Interested in Software Development, Web Technologies, and Information Systems.
+- 🤖 Exploring Artificial Intelligence, Multi-Agent Systems, and Automation.
+- 🗄️ Interested in databases, data management, and business applications.
+- 🚀 Always learning, experimenting, and developing new skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts&perline=7" alt="C, C++, Python, HTML, CSS, JavaScript and TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,cs" />
 </p>
 
-**Frameworks, platforms & workflow**
-
+### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,docker,postgres,mongodb,git,github,vscode&perline=10" alt="React, Node.js, FastAPI, Tailwind CSS, Docker, PostgreSQL, MongoDB, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django" />
 </p>
 
-<sub><em>✏️ The tools you reach for, in a sentence.</em></sub>
-
----
-
-## 03 — SELECTED WORK
-
-<em>✏️ What you built and why it matters.</em>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <!---->
-      <h3><a href="https://github.com/Khushal-93/SureD">01 / SureD</a></h3>
-      <sub>BLOCKCHAIN · RENTAL DEPOSITS</sub>
-      <p><em>✏️ Say this in your own words.</em></p>
-      <a href="https://sure-d.vercel.app/">VIEW LIVE PROJECT ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <!---->
-      <h3><a href="https://github.com/miraii09?tab=repositories">02 / GSoC Org Finder</a></h3>
-      <sub><em>✏️ Say this in your own words.</em></sub>
-      <p><em>✏️ Say this in your own words.</em></p>
-      <a href="https://findmygsoc.vercel.app/">OPEN PLATFORM ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <!---->
-      <h3><a href="https://github.com/miraii09?tab=repositories">03 / CivicLoop</a></h3>
-      <sub>CIVIC TECHNOLOGY · ANVESHANA 2026–27</sub>
-      <p><i><em>✏️ Say this in your own words.</em></i> </p>
-    </td>
-    <td width="50%" valign="top">
-      <!---->
-      <h3><a href="https://github.com/miraii09?tab=repositories">04 / Jal-Sanchaee-Navachar</a></h3>
-      <sub><em>✏️ Say this in your own words.</em></sub>
-      <p><em>✏️ Say this in your own words.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <!---->
-      <h3><a href="https://github.com/miraii09?tab=repositories">05 / DEV</a></h3>
-      <sub><em>✏️ Say this in your own words.</em></sub>
-      <p><em>✏️ Say this in your own words.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <!---->
-      <h3>06 / DepthWizard</h3>
-      <sub><em>✏️ Say this in your own words.</em></sub>
-      <p><em>✏️ Say this in your own words.</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 04 — CURRENT CHAPTER
-
-<p align="center">
-  <!---->
-</p>
-
-<em>✏️ Say this in your own words.</em>
-
----
-
-## 05 — ACTIVITY LOG
-
-<p align="center">
-  <!---->
-</p>
-
-<p align="center">
-  <!---->
-</p>
-
-<p align="center">
-  <!---->
-</p>
-
-<p align="center">
-  <!---->
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,docker,linux" />
 </p>
 
 ---
 
-## 06 — FIND ME ELSEWHERE
+## 🚀 Featured Projects
+
+### 📅 JavaFX Agenda Management System
+A desktop application for managing personal events and appointments.
+
+- Java, JavaFX, JDBC, and Oracle.
+- CRUD operations and event management.
+- Calendar interface with priority indicators.
+- Search and filtering functionalities.
+
+### 🤖 Multi-Agent Production Monitoring Dashboard
+An interactive dashboard simulating production failures using a multi-agent architecture.
+
+- Python and Streamlit.
+- Planner → Executor → Critic architecture.
+- API fault injection and fallback mechanisms.
+- Performance monitoring and KPI reporting.
+
+### 🌾 Uber-Cueillette
+A web platform connecting Tunisian farmers with seasonal agricultural workers.
+
+- PHP, MySQL, Bootstrap, and PDO.
+- Database-driven management.
+- Web application development.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <sub><em>✏️ A sentence about you and what you do.</em></sub><br />
-  <strong><em>✏️ A sentence about you and what you do.</em></strong>
-</p>
-
-<!---->
-
-<p align="center">
-  <sub><em>✏️ A sentence about you and what you do.</em></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <strong><em>✏️ A sentence about you and what you do.</em></strong><br />
-  <sub><em>✏️ A sentence about you and what you do.</em></sub>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
-<p align="center"><sub>Almia Nour · <a href="https://www.gitskins.com/readme-generator?template=community-quietly-technical-3w63">Quietly Technical</a> template by <a href="https://www.gitskins.com/creators/omjoshi-2307">@omjoshi-2307</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nour-almia-14766a342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Learning continuously. Building creatively. Growing every day.</i>
+</p>
