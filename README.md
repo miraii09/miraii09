@@ -12,8 +12,6 @@
 
 <br/>
 
-<img src="https://ryme.md/api/render/pixelfarm-github-stats?u=miraii09&bg=f9c6e3&fg=512443&accent=d84f9b&muted=925477&loop=0" width="100%" alt="GitHub pixel farm stats" />
-
 </div>
 
 ## ✨ Selected projects
