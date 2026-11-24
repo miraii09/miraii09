@@ -1,6 +1,7 @@
-# 👩‍💻 Hi, I'm Almia Nour!
+# It's Almia Nour!
 
 <!-- Animated typing introduction -->
+<body backgroung-color="pink">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Business+Computing+Student;Aspiring+Software+Developer;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
@@ -19,11 +20,11 @@ I'm a final-year **Business Computing student**, specializing in Business Inform
 
 I'm interested in building practical digital solutions that combine technology, business processes, and innovation.
 
-- 🎓 Currently completing my Bachelor's degree in Business Computing.
-- 💻 Interested in Software Development, Web Technologies, and Information Systems.
-- 🤖 Exploring Artificial Intelligence, Multi-Agent Systems, and Automation.
-- 🗄️ Interested in databases, data management, and business applications.
-- 🚀 Always learning, experimenting, and developing new skills.
+-  Currently completing my Bachelor's degree in Business Computing.
+-  Interested in Software Development, Web Technologies, and Information Systems.
+-  Exploring Artificial Intelligence, Multi-Agent Systems, and Automation.
+-  Interested in databases, data management, and business applications.
+-  Always learning, experimenting, and developing new skills.
 
 ---
 
@@ -108,3 +109,4 @@ A web platform connecting Tunisian farmers with seasonal agricultural workers.
 <p align="center">
   <i>✨ Learning continuously. Building creatively. Growing every day.</i>
 </p>
+</body>
